@@ -1,3 +1,3 @@
 # TravelAPP
 fix selesai
-[My image](trisugihartono/TravelAPP/Get Started.png)
+![alt text](https://github.com/trisugihartono/TravelAPP/blob/main/Get%20Started.png?raw=true)
